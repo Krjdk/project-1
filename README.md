@@ -1,1 +1,2 @@
-# project-1
+# PROJECT-1
+Guess The Number Game
